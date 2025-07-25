@@ -7,9 +7,9 @@ This repository combines multiple hands-on tutorials for learning **MLOps**. Eac
 The original tutorials belong to their respective authors.  
 Each subfolder retains the original **MIT License** from its source repository:  
 
-- **CI/CD Pipelines**  
+- **Continuous Integration**  
   Source: [Author's Repo Link 1](https://github.com/vikashishere/YT-MLOPS-CI-Masterclass.git)  
-  License: [MIT License]()  
+  License: [MIT License](./mlops-topics/continuous-integration/LICENSE)  
 
 - **Kubernetes**  
   Source:  
