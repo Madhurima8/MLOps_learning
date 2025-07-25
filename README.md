@@ -1,7 +1,6 @@
 # MLOps_learning  
 
-This repository combines multiple hands-on tutorials for learning **MLOps**.  
-Each folder corresponds to a different topic (e.g., Docker, CI/CD, Kubernetes) and is based on publicly available tutorial repositories.  
+This repository combines multiple hands-on tutorials for learning **MLOps**. Each folder corresponds to a different topic (e.g., Docker, CI/CD, Kubernetes) and is based on publicly available tutorial repositories.  
 
 ## Credits & Licenses  
 
